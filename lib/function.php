@@ -13,3 +13,5 @@ function test4(){
 }
 function test5(){
 }
+function test6(){
+}
