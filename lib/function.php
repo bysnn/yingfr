@@ -11,3 +11,5 @@ function test(){
 function test4(){
 //add test4() in www/yingfr
 }
+function test5(){
+}
