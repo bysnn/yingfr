@@ -6,6 +6,7 @@
 define( ROOT_DIR , __DIR__  );
 
 echo 'this is yingfr index';
+//amend2
 
 
 
