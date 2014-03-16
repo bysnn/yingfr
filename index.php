@@ -7,6 +7,7 @@ define( ROOT_DIR , __DIR__  );
 
 echo 'this is yingfr index';
 //amend2
+echo 'added by haitao at lib3';
 
 
 
