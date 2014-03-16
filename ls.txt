@@ -4,3 +4,4 @@ this is lib3 modified.
 // added in bak/yingfr
 // add by smallboy
 // add by smallboy in haitao2
+// Hope no password required.
