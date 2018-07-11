@@ -5,6 +5,7 @@ this is lib3 modified.
 ===== yinfr test8
 
 haha
--====
-
 before Revert
+
+
+NewRevert
